@@ -1,0 +1,22 @@
+.footer-section {
+  background-color: #2e2f42;
+}
+
+.footer-section .accent-web {
+  color: #4d5ae5;
+}
+.footer-section .logo {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  color: #f4f4fd;
+  font-family: 'Raleway', sans-serif;
+}
+
+.footer-section p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}

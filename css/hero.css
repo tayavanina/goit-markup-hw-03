@@ -1,0 +1,27 @@
+.hero-section {
+  background-color: #2e2f42;
+}
+
+.title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.button-order {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.button-order:hover,
+.button-order:focus {
+  background-color: #404bbf;
+}

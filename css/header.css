@@ -1,0 +1,38 @@
+.navigation:hover,
+.navigation:focus {
+  color: #404bbf;
+}
+
+.navigation {
+  font-weight: 500;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.accent-web {
+  color: #4d5ae5;
+}
+.logo {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.contacts a:hover,
+.contacts a:focus,
+.contacts a:active {
+  color: #404bbf;
+}
+
+.contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
+}
