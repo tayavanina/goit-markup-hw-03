@@ -1,9 +1,10 @@
-#portfolio {
-  padding: 120px 0; /* ← на секцію */
+.portfolio-section {
+  padding: 120px 0;
 }
 
 .portfolio-title {
   margin-bottom: 72px;
+  text-align: center;
 }
 
 .portfolio-container ul {
