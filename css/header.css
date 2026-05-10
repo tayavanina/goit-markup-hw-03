@@ -35,4 +35,37 @@
   letter-spacing: 0.02em;
   color: #434455;
   font-style: normal;
+  margin: auto;
 }
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 76px;
+  padding-right: 340px;
+}
+
+.contacts ul {
+  display: flex;
+  gap: 40px;
+}
+/* .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 76px;
+} */

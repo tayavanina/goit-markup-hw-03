@@ -20,3 +20,20 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+.footer-container {
+  padding: 100px 0;
+}
+
+.footer-section .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer-section p {
+  max-width: 264px;
+}
+
+footer {
+  margin-top: auto; /* штовхає футер донизу */
+}

@@ -12,3 +12,19 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.features-container ul {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.text-features {
+  flex-basis: calc((100% - 72px) / 4);
+}
+
+.features-container {
+  padding: 120px 0;
+}

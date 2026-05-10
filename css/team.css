@@ -32,3 +32,28 @@
   text-align: center;
   color: #434455;
 }
+
+.team-container {
+  padding: 120px 0;
+}
+
+.team-container h2 {
+  margin-bottom: 72px;
+}
+
+.team-container ul {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-team h3 {
+  padding-top: 32px;
+  margin-bottom: 8px;
+}
+
+.list-team p {
+  padding-bottom: 32px;
+}
